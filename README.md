@@ -10,3 +10,10 @@ Jualanmudah is a broadcast paltform in purpose makes sale easier. The user can m
 - Send email in bulk
 - Personalized email
 - Email tracking (opened and clicked)
+
+## Tech Stack
+- React
+- MDBootstrap
+- Flask
+- FlaskMail
+- MySQL
